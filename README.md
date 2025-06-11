@@ -7,7 +7,7 @@ Me chamo Fernando Eduardo Silva Dias, tenho 19 anos e sou natural do Rio Grande 
 
 ---
 
-### 👾 Linguagens e Tecnologias
+### 👾 Ferramentas e Tecnologias
 
 <div align="center" display="flex">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=diassf3&show_icons=true&theme=merko&locale=pt-br"" height="160em"/>
